@@ -2,7 +2,7 @@
 
 # A simple Client Chat based application made using Tkinter GUI and Socket Programming in Python.
 
-Open the Server python file first, and then the client user python file, which is followed by the user log in process
+Open and compile the Server python file first, and then the client user python file, which is followed by the user log in process. After logging in, many more instances of a client can be created by opening and compiling more client python files, for multiple user chatting
 
 
 ![dialog](https://user-images.githubusercontent.com/84873873/148670632-2c691941-ea5e-43fd-b829-2e5400dfcf82.png)
