@@ -17,3 +17,5 @@ Open and compile the Server python file first, and then the client user python f
 ![image](https://user-images.githubusercontent.com/84873873/174697648-41e44fa7-5695-4c49-915e-8ceb94d86645.png)
 ![image](https://user-images.githubusercontent.com/84873873/174697796-b9314bac-06f7-41d9-a373-e665c906c38d.png)
 
+![image](https://user-images.githubusercontent.com/84873873/174697902-1b5bd429-af86-470e-9e24-61dcbd50d533.png)
+
