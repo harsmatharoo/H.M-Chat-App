@@ -13,3 +13,4 @@ Open and compile the Server python file first, and then the client user python f
 
 
 ![SERVER](https://user-images.githubusercontent.com/84873873/148670623-bcc7b848-94f6-4614-a970-0ada28d8eae4.png)
+![image](https://user-images.githubusercontent.com/84873873/174697562-2febba94-8d8d-4d39-a4ef-13e69c935f9b.png)
